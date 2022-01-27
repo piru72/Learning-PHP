@@ -1,0 +1,53 @@
+PHP originally stood for Personal Home Page, 
+but it now stands for the recursive initialism PHP: Hypertext Preprocessor
+
+PHP is a server side language that means it runs on the server and and showss the output only 
+
+use cases 
+- Dynamic website with database 
+- Can create cms or content management system like wordpress 
+- it saves the data in database
+- Web based software application
+
+
+
+?? what is server side language 
+?? Client side language 
+
+
+
+?? Why PHP 
+- ease of use and learn
+- cost efficiency
+- oop
+- cross platform compatibility - different os 
+- can be run using any server apache ,iis
+- security 
+- huge community  
+
+
+
+
+?? websites using PHP
+- facebook
+- Yahoo 
+- wikipedia 
+- wordpress 
+- Mail chimp 
+- flicker
+- Flip kert
+
+
+?? How to run PHP code 
+
+- PHP
+- Mysql
+- Apache 
+
+All of this is packed in wampp server so to reduce the work we will be using wampp server 
+
+Here  wampp stands for windows Apache Mysql PHP
+
+
+We will be using XAMPP for the tutorial I am fllowing is yahoo baba 
+
