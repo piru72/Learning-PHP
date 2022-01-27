@@ -51,3 +51,13 @@ Here  wampp stands for windows Apache Mysql PHP
 
 We will be using XAMPP for the tutorial I am fllowing is yahoo baba 
 
+
+
+The basic format is to write 
+
+<?PHP
+The main code 
+?>
+
+you can also integrate php with html 
+
